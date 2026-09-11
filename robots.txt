@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JoanRuspira.github.io/reference-3zl8ny/sitemap.xml
